@@ -1,6 +1,6 @@
-#Aaron's First CS193 Homework
+# Aaron's First CS193 Homework
 
-#Favorite Things about CS193
+# Favorite Things about CS193
 - TAs are funny
 
 ## Welcome to GitHub Pages
