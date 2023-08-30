@@ -2,6 +2,7 @@
 
 # Favorite Things about CS193
 - TAs are funny
+- Chill ppl
 
 ## Welcome to GitHub Pages
 
